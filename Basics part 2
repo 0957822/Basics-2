@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-</head>
+<head> <meta charset="UTF-8"> </head>
 <body>
 
-<h1>Attributes</h1>
-<h2>Today I am goning to learin about attributes and tags</h2>
+<h1>Attributes</h1> <br>
+<h2>Today I am goning to learin about attributes and tags</h2><br>
 <p>From what I have learned an attribute specifies the tag.<br>
 A tag is how you define a certain handeling, you always start your attribute with a start.<br>
 An attribute gives additional info about the elemant.<br>
