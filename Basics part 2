@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+
+<h1>Attributes</h1>
+<h2>Today I am goning to learin about attributes and tags</h2>
+<p>From what I have learned an attribute specifies the tag.<br>
+A tag is how you define a certain handeling, you always start your attribute with a start.<br>
+An attribute gives additional info about the elemant.<br>
+Attributes are usually made by typing name="value".<br>
+alt - text or image <br>
+href - URL for a link <br>
+id - specifies a unique id for an element <br>
+src - specifies the URL for an image <br>
+style - specifies a inline CSS style <br></p>
+
+
+</body>
+</html>
