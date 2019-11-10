@@ -15,7 +15,7 @@ alt - text or image <br>
 href - URL for a link <br>
 id - specifies a unique id for an element <br>
 src - specifies the URL for an image <br>
-style - specifies a inline CSS style <br></p>
+style - specifies a inline CSS style. <br></p>
 
 
 </body>
